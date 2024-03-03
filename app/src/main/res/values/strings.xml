@@ -18,4 +18,9 @@
 файле XML.</string>
     <string name="question_manifest">AndroidManifest.xml предоставляет
 системе основную информацию о программе.</string>
+    <string name="question_serviceone">В Android можно использовать только один сервис в приложении.</string>
+    <string name="question_manifesttwo">В AndroidManifest.xml можно указать разрешения, необходимые для работы приложения.</string>
+    <string name="question_multitasking">Android не поддерживает многозадачность.</string>
+    <string name="question_graphic">В Android можно создать приложение без использования графического интерфейса.</string>
+    <string name="question_saving">Файлы ресурсов в Android могут быть только в формате XML.</string>
 </resources>
