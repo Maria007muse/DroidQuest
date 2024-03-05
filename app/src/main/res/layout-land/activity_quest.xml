@@ -51,4 +51,16 @@
             android:contentDescription="@string/next_button_description"
             android:layout_marginStart="4dp"/>
     </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="bottom|left"
+        android:padding="14dp">
+        <Button
+            android:id="@+id/deceit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/deceit_button" />
+    </LinearLayout>
 </FrameLayout>

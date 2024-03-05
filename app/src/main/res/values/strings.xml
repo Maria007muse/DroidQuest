@@ -23,4 +23,10 @@
     <string name="question_multitasking">Android не поддерживает многозадачность.</string>
     <string name="question_graphic">В Android можно создать приложение без использования графического интерфейса.</string>
     <string name="question_saving">Файлы ресурсов в Android могут быть только в формате XML.</string>
+
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть !</string>
+    <string name="judgment_toast">Обманывать нельзя.</string>
+    <string name="title_activity_deceit">Deceit</string>
 </resources>
